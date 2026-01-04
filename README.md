@@ -1,1 +1,3 @@
 # GCD-By-Using-Python-
+Author: Rup Dey <br>
+Easy For Ever One......
